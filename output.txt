@@ -1,0 +1,84 @@
+
+
+It is difficult to introduce both novice and experienced procedural programmers to the anthropomorphic perspective necessary for object-oriented design
+
+
+The most difficult problem in teaching object- oriented programming is getting the learner to give up the global knowledge of control that is possible with procedural programs, and rely on the local knowledge of objects to accomplish their tasks
+
+
+Because learning about objects requires such a shift in overall approach, teaching objects reduces to teaching the design of objects
+
+
+Rather than try to make object design as much like procedural design as possible, we have found that the most effective way of teaching the idiomatic way of thinking with objects is to immerse the learner in the "object-ness" of the material
+
+
+It is in this context that we will describe our perspective on object design, its concrete manifestation, CRC (for Class, Responsibility, and Collaboration) cards, and our experience using these cards to teach both the fundamentals and subtleties of thinking with objects
+
+
+Procedural designs can be characterized at an abstract level as having processes, data flows, and data stores     , regardless of implementation language or operating environment
+
+
+The class name of an object creates a vocabulary for discussing a design
+
+
+The more that can be expressed by these phrases, the more powerful and concise the design
+
+
+The last dimension we use in characterizing object designs is the collaborators of an object
+
+
+This informality is not as confusing as it might seem because the concreteness of our method substitutes for naming of instances
+
+
+The second author invented CRC cards in response to a need to document collaborative design decisions
+
+
+Like our earlier work in documenting the collaboration of objects     , CRC cards explicitly represent multiple objects simultaneously
+
+
+Figure 1
+
+
+We have deliberately shown only a portion of the responsibilities each of these objects assumes for clarity of exposition
+
+
+The ability to quickly organize and spatially address index cards proves most valuable when a design is incomplete or poorly understood
+
+
+Design with the cards tends to progress from knowns to unknowns, as opposed to top-down or bottom up
+
+
+If the situation calls for a responsibility not already covered by one of the objects we either add the responsibility to one of the objects, or create a new object to address that responsibility
+
+
+We encourage learners to pick up the card whose role they are assuming while "executing" a scenario
+
+
+We stress the importance of creating objects not to meet mythical future needs, but only under the demands of the moment
+
+
+The class proceeds by introducing a data flow example (a school, with processes for teaching and administration) which is then recast in terms of objects with responsibilities and collaborators (such as Teacher, Janitor, and Principal)
+
+
+In teaching over a hundred students this course we have encountered no one who was unable to complete the exercise unaided, although one pair in each class usually needs a few hints to get started
+
+
+We have also asked skilled object programmers to try using CRC cards
+
+
+Another experiment illustrates the importance of the context established by the handling and discussing of cards
+
+
+The cards are being used as props to aid the telling of a story of computation
+
+
+CRC cards give the learner who has never encountered objects a physical understanding of object-ness, and prepares them to understand the vocabulary and details of particular languages
+
+
+Ragu Raghavan      has said that in the switch to objects strong programmers become stronger, but weaker programmers are left behind
+
+
+We were surprised at the value of physically moving the cards around
+
+
+It is just this problem-integrating the cards with larger design methodologies and with particular language environments, that we feel holds the most promise for the future

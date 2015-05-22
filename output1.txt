@@ -1,0 +1,42 @@
+
+.
+
+Give the paper to somebody else to read.
+
+(Most research papers contain a "related work" section that can be considered a survey, but it is usually brief compared to the rest of the paper and only addresses a much narrower slice of the field.).
+
+A good research paper has a clear statement of the problem the paper is addressing, the proposed solution(s), and results achieved.
+
+The paper may or may not include formalisms.
+
+of proposed system(s) to achieve this model should be more generic than your own peculiar implementation.
+
+: contains actual implementation details when implementing architecture isn't totally straightforward.
+.
+
+Then the conclusions, then the intro.
+
+Use adjectives that describe the distinctive features of your work, e.g., reliable, scalable, high-performance, robust, low-complexity, or low-cost.
+
+IEEE PSPB Operations Manual.
+
+This system allows the programmer to easily try lots of parameters, and problems, but incorporates a special constraint system for parameter settings and LISP S-expression parenthesis counting..
+.
+
+However, evolved programs may require more time to execute, since they are solving a harder task..
+
+Specifically, with an
+imposed over a series of fitness cases, evolved programs dynamically choose when to stop processing each fitness case.
+
+In all but extended abstracts, numerical results and simulations should be reported in enough detail that the reader can duplicate the results.
+
+When presenting simulation results, provide insight into the statistical confidence.
+.
+
+The description of the graph should not just repeat the graphically obvious such as "the delay rises with the load", but explain, for example, how this increase relates to the load increase.
+
+or
+<i>.
+
+\usepackage{graphics} ...
+.
